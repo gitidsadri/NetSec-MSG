@@ -1,7 +1,7 @@
 # NetSec-MSG
 Implementation of a simple secure messenger;
 The goal of this project is to design a secure messenger program consisting of two main parts; the server and the client. The encription protocol used in this system is a new and simple protocol called ASL like SSL protocol. This protocol consists of two phases of handshaking and data exchange session.
-A) handshaking phase: In this phase, the two parties after identifying each other, agree on the key and the encryption protocol. The process for this protocol is shown in the picture.
+A) handshaking phase: In this phase, the two parties after identifying each other, agree on the key and the encryption protocol. The process for this protocol is shown in the file pic1.png.
 Description:
  "EncpubS" means public key server encryption. The rest of the naming is the same.
  Messages are single-line, except for certificates.
