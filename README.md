@@ -1,5 +1,5 @@
 # NetSec-MSG
-Implement a simple secure messenger;
+Implementation of a simple secure messenger;
 The goal of this project is to design a secure messenger program consisting of two main parts; the server and the client. The encription protocol used in this system is a new and simple protocol called ASL like SSL protocol. This protocol consists of two phases of handshaking and data exchange session.
 A) handshaking phase: In this phase, the two parties after identifying each other, agree on the key and the encryption protocol. The process for this protocol is shown in the picture.
 Description:
